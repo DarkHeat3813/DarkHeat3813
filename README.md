@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @techwitharpanm
 - 👀 I’m interested in web development and node.js
-- 🌱 I’m currently learning hacking using kali linux
+- 🌱 I’m currently learning Web Design
 - 💞️ I’m looking to collaborate on web development frontend
 - 📫 How to reach me: My discord tag-Cube#0266
 
