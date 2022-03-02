@@ -5,10 +5,7 @@
   
 ## My workspace uses: <image src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
 
-## I <b>LOVE</b> music:
-<a href="https://open.spotify.com/user/hlhwldmjqu77fq6enkox81uj8?si=9dc1970e60584e8a">
-  <image src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-</a>
+## I <b>LOVE</b> music: <a href="https://open.spotify.com/user/hlhwldmjqu77fq6enkox81uj8?si=9dc1970e60584e8a"> <image src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   
 
 
