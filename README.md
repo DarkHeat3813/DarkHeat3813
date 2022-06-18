@@ -1,5 +1,4 @@
 # Hello, thanks for visiting my profile, I hope you have a nice time here!
-<br />
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ## 🤖Technologies and tools :-
